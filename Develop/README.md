@@ -1,8 +1,8 @@
 
-  # ww
+  # README. generator
 
   ## Description
-  ww
+  This is a test generator
 
   ## Table of contents
   * [Installation](#installation)
@@ -13,10 +13,10 @@
   * [Questions](#questions)
 
   ## Installation
-  ww
+  This is a test generator
 
   ## Usage
-  ww
+  This is a test generator
 
   
 
@@ -28,11 +28,11 @@
    
 
   ## Contributing
-  ww
+  This is a test generator
 
   ## Tests
-  ww
+  This is a test generator
 
   ## Questions
-  For any questions, please contact me at: [ww].
-  You can also find me on Github: [ww] (https://github.com/ww).
+  For any questions, please contact me at: [stephaniesosa02@gmail.com].
+  You can also find me on Github: [stephanuh] (https://github.com/stephanuh).

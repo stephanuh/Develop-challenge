@@ -2,7 +2,7 @@
 
 ## Description
 
-This project has been challenging for me for someone who has never code before and this helped me learn more of what Node is and what features it has. I had a hard time connecting ```index.js``` with ```generateMarkdown.js``` and I found out I forgot to add "./utils/"(the smallest details do matter). I've done so many typos and unnecessary codes. The only problem I have is adding my lisence and I spend the entire day trying to solve it. In the future I will look back and lugh about this.
+This project has been challenging for me for someone who has never code before and this helped me learn more of what Node is and what features it has. I had a hard time connecting ```index.js``` with ```generateMarkdown.js``` and I found out I forgot to add "./utils/"(the smallest details do matter). I've done so many typos and unnecessary codes. The only problem I have is adding my license and I spend the entire day trying to solve it. In the future I will look back and lugh about this.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ To get started go on the command line and typed ```node index.js.``` Follow the 
 
 ## Usage
 
-watch video instructions [here]().
+watch video instructions [here](https://drive.google.com/file/d/1K_fhIYbZGSt39xaaY6wAIURIwOl1g8V6/view).
 
 
 ## Credits
