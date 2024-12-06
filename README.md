@@ -2,7 +2,7 @@
 
 ## Description
 
-This project has been challenging for me for someone who has never code before and this helped me learn more of what Node is and what features it has. I had a hard time connecting ```index.js``` with ```generateMarkdown.js``` and I found out I forgot to add "./utils/"(the smallest details do matter). I've done so many typos and unnecessary codes. The only problem I have is adding my license and I spend the entire day trying to solve it. In the future I will look back and lugh about this.
+This project has been challenging for me for someone who has never code before and this helped me learn more of what Node is and what features it has. I had a hard time connecting ```index.js``` with ```generateMarkdown.js``` and I found out I forgot to add "./utils/"(the smallest details do matter). I've done so many typos and unnecessary codes. The only problem I have is adding my license and I spend the entire day trying to solve it. In the future I will look back and laugh about this.
 
 ## Table of Contents
 
